@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/holo_red_light"
     tools:context=".aboutDeveloper">
 
     <TextView
@@ -15,5 +16,6 @@
         android:layout_marginTop="187dp"
         android:gravity="center"
         android:text="@string/pranay_pathole"
+        android:textColor="@android:color/black"
         android:textSize="50sp" />
 </RelativeLayout>
