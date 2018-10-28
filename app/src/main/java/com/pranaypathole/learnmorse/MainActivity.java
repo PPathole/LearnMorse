@@ -236,7 +236,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         if(id == R.id.moreMorse){
-            Toast.makeText(this, "Under Construction", Toast.LENGTH_SHORT).show();
+            Intent moreMorse = new Intent(getApplicationContext(), moreMorse.class);
+            startActivity(moreMorse);
         }
 
         return super.onOptionsItemSelected(item);

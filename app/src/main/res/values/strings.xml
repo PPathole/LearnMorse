@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">LearnMorse</string>
     <string name="pranay_pathole">Pranay Pathole</string>
+    <string name="todo">TODO</string>
+    <string name="learn_morse_code">Learn Morse Code</string>
+    <string name="morese_instructions">Moving to the right is Dash. Moving to the left is Dot. So when you hear a Morse code if it is dash.dot.dot. Which means T-N-D and stop at letter D</string>
 </resources>
